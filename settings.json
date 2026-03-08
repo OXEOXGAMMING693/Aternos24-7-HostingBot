@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Technoblade",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "OXEOXGAMING.aternos.me",
+    "port": 41217,
     "version": "1.21.1"
   },
   "position": {
@@ -64,7 +64,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,7 +74,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
